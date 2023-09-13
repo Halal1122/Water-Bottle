@@ -1,0 +1,10 @@
+.bottle-container{
+    border: 2px solid rebeccapurple;
+    padding: 10px;
+    
+    background-size: cover;
+
+}
+.bottle-container img{
+    width: 300px;
+}

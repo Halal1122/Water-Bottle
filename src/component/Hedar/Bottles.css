@@ -1,0 +1,11 @@
+.bottles-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    
+    max-width: 50px;
+    max-height: 20px;
+}
+.text{
+    text-align: center;
+}
